@@ -29,3 +29,4 @@
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/139cf4e5-76b1-4463-867e-87ff0e5a7881" />
 
 # Delete the user "devops" and "dawud"
+<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/6047dbb4-9c4a-44bf-8e13-d4c5e2574488" />
