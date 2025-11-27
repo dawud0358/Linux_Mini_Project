@@ -14,3 +14,4 @@
 <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/fdb60804-31af-498c-9eaa-db2e60dd995f" />
 
 # In the "devops" folder, create a file named "ilovecybersecurity.txt" and paste in the following " Embrace the exciting journey of a Devsecops Engineer career, where every challenge fuels your growth and every success propel you to new heights of innovation and collaboration.
+<img width="1916" height="1005" alt="image" src="https://github.com/user-attachments/assets/55070b25-5f1f-4c87-9f26-e530fc11608d" />
