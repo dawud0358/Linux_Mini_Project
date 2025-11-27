@@ -18,3 +18,5 @@
 
 # Rename file "lovedevsecops.txt">"lovedevsecops.csv" and "lovedevops.txt">"lovedevops.csv"
 <img width="1919" height="713" alt="image" src="https://github.com/user-attachments/assets/70979819-17d2-4422-957c-2fc888ad3c23" />
+
+# Create a user "devops engineer" and give it a shell and a group.
