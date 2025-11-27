@@ -12,3 +12,5 @@
 
 # In the "cyber" folder, create the following files "lovedevsecops.txt", "lovedevops.txt", "lovecyber.txt", "lovesoc.csv", "lovepen.csv" using a single command.
 <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/fdb60804-31af-498c-9eaa-db2e60dd995f" />
+
+# In the "devops" folder, create a file named "ilovecybersecurity.txt" and paste in the following " Embrace the exciting journey of a Devsecops Engineer career, where every challenge fuels your growth and every success propel you to new heights of innovation and collaboration.
