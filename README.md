@@ -21,3 +21,5 @@
 
 # Create a user "devops engineer" and give it a shell and a group.
 <img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/dd7dbb72-2ad5-40b9-9f3f-b5f128c9bef3" />
+
+# Confirm the user devops has been created with all the attributes.
