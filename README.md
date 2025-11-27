@@ -9,3 +9,5 @@
 
 # Within the "devopsengineer" folder, create 4 different folders using a single command "devops", "cyber", "cloud", "engineer"
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/ec2a4793-9d5e-44a6-b888-7927e5e4b6d9" />
+
+# In the "cyber" folder, create the following files "lovedevsecops.txt", "lovedevops.txt", "lovecyber.txt", "lovesoc.csv", "lovepen.csv" using a single command.
