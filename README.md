@@ -8,3 +8,4 @@
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/11780597-11bc-4581-8e86-2da6870a15a0" />
 
 # Within the "devopsengineer" folder, create 4 different folders using a single command "devops", "cyber", "cloud", "engineer"
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/ec2a4793-9d5e-44a6-b888-7927e5e4b6d9" />
