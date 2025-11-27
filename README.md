@@ -26,3 +26,4 @@
 <img width="1916" height="1006" alt="image" src="https://github.com/user-attachments/assets/add8887d-078a-4e6b-b19c-d790ae2beca9" />
 
 # Give the devops user false shell
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/139cf4e5-76b1-4463-867e-87ff0e5a7881" />
