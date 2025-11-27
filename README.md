@@ -24,3 +24,5 @@
 
 # Confirm the user devops has been created with all the attributes.
 <img width="1916" height="1006" alt="image" src="https://github.com/user-attachments/assets/add8887d-078a-4e6b-b19c-d790ae2beca9" />
+
+# Give the devops user false shell
