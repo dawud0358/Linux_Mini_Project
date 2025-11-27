@@ -30,3 +30,5 @@
 
 # Delete the user "devops" and "dawud"
 <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/6047dbb4-9c4a-44bf-8e13-d4c5e2574488" />
+
+# Delete these directories "devops", "cyber", "cloud", and "engineer"
